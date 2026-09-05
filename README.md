@@ -21,10 +21,15 @@ Plus tôt : développeur full stack chez Corma (Station F), une mission de struc
 | [xrpl-eclipse](https://github.com/SamirNaggara/xrpl-eclipse) | Certification de produits sur le XRP Ledger, lauréat du XRPL Commons Hackathon 2025 |
 | [ownit](https://github.com/SamirNaggara/ownit) | Premier prototype de preuve de propriété par NFT, mars 2024 |
 | [minishell](https://github.com/SamirNaggara/minishell), [cube3d](https://github.com/SamirNaggara/cube3d), [philosophers](https://github.com/SamirNaggara/philosophers) | Bas niveau en C : shell POSIX, raycasting, threads et mutex |
+| [kfs-1](https://github.com/SamirNaggara/kfs-1), [kfs-2](https://github.com/SamirNaggara/kfs-2) | Kernel From Scratch : un noyau i386 bootable, VGA, GDT. Master 42 réseaux et sécurité |
+| [snowcrash](https://github.com/SamirNaggara/snowcrash) | Quinze niveaux d'exploitation sur machine vulnérable, write-ups par niveau |
+| [cloud1](https://github.com/SamirNaggara/cloud1) | WordPress en production sur Scaleway : Terraform, Ansible, Docker, nginx TLS |
+| [iot](https://github.com/SamirNaggara/iot), [badass](https://github.com/SamirNaggara/badass) | Kubernetes de zéro avec Argo CD en GitOps ; data center Spine-Leaf avec BGP EVPN sur FRRouting |
+| [hisam](https://github.com/SamirNaggara/hisam) | Bureau virtuel audio dans le navigateur, voix en pair à pair, Firebase seulement pour les salons |
 | [inception](https://github.com/SamirNaggara/inception) | nginx, WordPress et MariaDB conteneurisés à la main |
 | [timer-dune](https://github.com/SamirNaggara/timer-dune) | Un timer pour Dune Imperium, parce que les parties sont trop longues |
 
-Le reste du travail récent (Safeout, Sanko, produits en cours) est dans des dépôts privés.
+Le reste du travail récent (Safeout, Sanko, produits en cours) est dans des dépôts privés. Les projets 42 sont publiés comme trace d'apprentissage, sous licence MIT quand ils sont de moi seul.
 
 ## Contact
 
