@@ -17,7 +17,7 @@ Plus tôt : développeur full stack chez Corma (Station F), une mission de struc
 | Repo | Quoi |
 |---|---|
 | [solana-sdk](https://github.com/SamirNaggara/solana-sdk) | SDK TypeScript de passeports numériques de produits sur Solana : mint SPL, métadonnées hachées, vérification d'authenticité |
-| [chilliz](https://github.com/SamirNaggara/chilliz) | Scanner NFC de maillots PSG, 1re place du Hacking Paris Contest 2025 (Chiliz, 90 projets) |
+| [chilliz](https://github.com/SamirNaggara/chilliz) | Scanner NFC de maillots PSG, vibe-codé en cinq jours de hackathon, 1re place du Hacking Paris Contest 2025 (Chiliz, 90 projets) |
 | [xrpl-eclipse](https://github.com/SamirNaggara/xrpl-eclipse) | Certification de produits sur le XRP Ledger, lauréat du XRPL Commons Hackathon 2025 |
 | [ownit](https://github.com/SamirNaggara/ownit) | Premier prototype de preuve de propriété par NFT, mars 2024 |
 | [minishell](https://github.com/SamirNaggara/minishell), [cube3d](https://github.com/SamirNaggara/cube3d), [philosophers](https://github.com/SamirNaggara/philosophers) | Bas niveau en C : shell POSIX, raycasting, threads et mutex |
@@ -27,9 +27,10 @@ Plus tôt : développeur full stack chez Corma (Station F), une mission de struc
 | [iot](https://github.com/SamirNaggara/iot), [badass](https://github.com/SamirNaggara/badass) | Kubernetes de zéro avec Argo CD en GitOps ; data center Spine-Leaf avec BGP EVPN sur FRRouting |
 | [hisam](https://github.com/SamirNaggara/hisam) | Bureau virtuel audio dans le navigateur, voix en pair à pair, Firebase seulement pour les salons |
 | [inception](https://github.com/SamirNaggara/inception) | nginx, WordPress et MariaDB conteneurisés à la main |
-| [timer-dune](https://github.com/SamirNaggara/timer-dune) | Un timer pour Dune Imperium, parce que les parties sont trop longues |
+| [timer-dune](https://github.com/SamirNaggara/timer-dune), [2048](https://github.com/SamirNaggara/2048) | Un timer pour Dune Imperium, et un 2048 en Python codé à la main sans IA, pour le plaisir |
+| [sankofa-poc](https://github.com/SamirNaggara/sankofa-poc) | Maquette interactive de Sanko faite comme preuve de concept, tout est simulé |
 
-Le reste du travail récent (Safeout, Sanko, produits en cours) est dans des dépôts privés. Les projets 42 sont publiés comme trace d'apprentissage, sous licence MIT quand ils sont de moi seul.
+Ce qui est visible ici est une petite partie du travail. L'essentiel est privé : Safeout (plus de 3 000 commits), la plateforme Sanko, les projets clients et les produits en cours, et une bonne part du code vit directement sur les GitHub des clients. Les projets 42 sont publiés comme trace d'apprentissage, sous licence MIT quand ils sont de moi seul.
 
 ## Contact
 
