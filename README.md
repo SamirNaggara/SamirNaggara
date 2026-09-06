@@ -22,6 +22,7 @@ Plus tôt : développeur full stack chez Corma (Station F), une mission de struc
 | [chilliz](https://github.com/SamirNaggara/chilliz) | Scanner NFC de maillots PSG, codé en deux jours pendant le Hacking Paris Contest 2025 (Chiliz), 1re place sur 90 projets |
 | [xrpl-eclipse](https://github.com/SamirNaggara/xrpl-eclipse) | Certification de produits sur le XRP Ledger, lauréat du XRPL Commons Hackathon 2025 |
 | [ownit](https://github.com/SamirNaggara/ownit) | Premier prototype de preuve de propriété par NFT, mars 2024 |
+| [transcendance](https://github.com/SamirNaggara/transcendance) | Pong multijoueur temps réel avec chat, amis et 2FA : React, NestJS, Prisma, WebSocket, Docker. Projet final du tronc commun 42, à cinq |
 | [minishell](https://github.com/SamirNaggara/minishell), [cube3d](https://github.com/SamirNaggara/cube3d), [philosophers](https://github.com/SamirNaggara/philosophers) | Bas niveau en C : shell POSIX, raycasting, threads et mutex |
 | [kfs-1](https://github.com/SamirNaggara/kfs-1), [kfs-2](https://github.com/SamirNaggara/kfs-2) | Kernel From Scratch : un noyau i386 bootable, VGA, GDT. Master 42 réseaux et sécurité |
 | [snowcrash](https://github.com/SamirNaggara/snowcrash) | Quinze niveaux d'exploitation sur machine vulnérable, write-ups par niveau |
@@ -62,6 +63,7 @@ Earlier: full stack developer at Corma (Station F), a data structuring assignmen
 | [chilliz](https://github.com/SamirNaggara/chilliz) | NFC scanner for PSG jerseys, built in two days during the Hacking Paris Contest 2025 (Chiliz), 1st out of 90 projects |
 | [xrpl-eclipse](https://github.com/SamirNaggara/xrpl-eclipse) | Product certification on the XRP Ledger, winner at the XRPL Commons Hackathon 2025 |
 | [ownit](https://github.com/SamirNaggara/ownit) | First proof-of-ownership prototype with NFTs, March 2024 |
+| [transcendance](https://github.com/SamirNaggara/transcendance) | Real-time multiplayer Pong with chat, friends and 2FA: React, NestJS, Prisma, WebSocket, Docker. Final project of the 42 core curriculum, team of five |
 | [minishell](https://github.com/SamirNaggara/minishell), [cube3d](https://github.com/SamirNaggara/cube3d), [philosophers](https://github.com/SamirNaggara/philosophers) | Low level in C: POSIX shell, raycasting, threads and mutexes |
 | [kfs-1](https://github.com/SamirNaggara/kfs-1), [kfs-2](https://github.com/SamirNaggara/kfs-2) | Kernel From Scratch: a bootable i386 kernel, VGA, GDT. 42 master's, networks and security |
 | [snowcrash](https://github.com/SamirNaggara/snowcrash) | Fifteen exploitation levels on a vulnerable machine, one write-up per level |
