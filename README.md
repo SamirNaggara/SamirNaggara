@@ -17,7 +17,7 @@ Plus tôt : développeur full stack chez Corma (Station F), une mission de struc
 | Repo | Quoi |
 |---|---|
 | [solana-sdk](https://github.com/SamirNaggara/solana-sdk) | SDK TypeScript de passeports numériques de produits sur Solana : mint SPL, métadonnées hachées, vérification d'authenticité |
-| [chilliz](https://github.com/SamirNaggara/chilliz) | Scanner NFC de maillots PSG, vibe-codé en cinq jours de hackathon, 1re place du Hacking Paris Contest 2025 (Chiliz, 90 projets) |
+| [chilliz](https://github.com/SamirNaggara/chilliz) | Scanner NFC de maillots PSG, codé en cinq jours pendant le Hacking Paris Contest 2025 (Chiliz), 1re place sur 90 projets |
 | [xrpl-eclipse](https://github.com/SamirNaggara/xrpl-eclipse) | Certification de produits sur le XRP Ledger, lauréat du XRPL Commons Hackathon 2025 |
 | [ownit](https://github.com/SamirNaggara/ownit) | Premier prototype de preuve de propriété par NFT, mars 2024 |
 | [minishell](https://github.com/SamirNaggara/minishell), [cube3d](https://github.com/SamirNaggara/cube3d), [philosophers](https://github.com/SamirNaggara/philosophers) | Bas niveau en C : shell POSIX, raycasting, threads et mutex |
